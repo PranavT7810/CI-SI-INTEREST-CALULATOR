@@ -1,0 +1,85 @@
+body{
+background-color: #f0f4f8;
+cursor: default;
+}
+
+.main-background{
+background-color: white;
+border-radius: 20px;
+padding-top: 10px;
+padding-bottom: 5px;
+}
+
+#p,#r,#t{
+margin: 10px;
+font-weight: bold;
+font-size: 20px;
+}
+
+#p{
+
+position: relative;
+left: 26px;
+
+}
+
+#r{
+
+position: relative;
+left: 13px;
+
+}
+
+label{
+
+font-size: 20px;
+
+}
+
+button{
+
+font-size: 20px;
+padding: 5px;
+margin: 10px;
+cursor: pointer;
+
+}
+
+.calculated-amount{
+background-color: white;
+border-radius: 15px;
+font-size: 10px;
+display: inline-block;
+width: 100%;
+height: auto;
+margin-top: 20px;
+
+}
+
+#pp,#ppp,#kk,#kkk,#topic,#pp12,#pp121,#ppp12,#ppp121,#kk12,#kkk121,{
+margin: 10px;
+}
+
+#topic{
+font-weight: bold;
+font-size: 25px;
+}
+
+.topic1{
+font-weight: bold;
+font-size: 35px;
+margin-top: 15px;
+}
+
+.align-amount{
+background-color: ;
+display: inline-block;
+margin:10px;
+margin-left: 20px;
+
+}
+
+.hp{
+display: inline-block;
+margin-left: 5px;
+}
